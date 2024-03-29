@@ -1,0 +1,10 @@
+int x,y,z;
+float a,b=0.5;
+y=2;
+while(x!=3){
+    if(a<1){
+        a=b++1;
+        b=y*(x+z);
+    }
+    if(b>=1){x=x/(y+1);}
+}

@@ -1,0 +1,13 @@
+int main(){
+	@
+//hello world
+	int a=1;
+	int b=1.98;
+	int c=1.98.98;
+	int 1abc=(a+b)+c;
+	if(a&&b)
+		a++;
+	else if(a>=b)
+		b++;
+	return 0;
+}

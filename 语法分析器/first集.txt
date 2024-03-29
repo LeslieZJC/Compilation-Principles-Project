@@ -1,0 +1,16 @@
+first(A)={a,h,v,y,z,}
+first(B)={a,h,v,y,z,}
+first(C)={2,m,}
+first(D)={a,h,y,z,}
+first(E)={2,@,a,h,w,y,z,}
+first(G)={2,}
+first(I)={k,}
+first(N)={2,}
+first(P)={*,}
+first(Q)={+,-,}
+first(R)={@,r,}
+first(T)={a,h,y,z,}
+first(W)={w,}
+first(X)={2,}
+first(Y)={2,3,}
+first(Z)={;,}

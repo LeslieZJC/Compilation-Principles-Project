@@ -1,0 +1,6 @@
+T->S
+S->aAd
+S->bAc
+S->aec
+S->bed
+A->e
